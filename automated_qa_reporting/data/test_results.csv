@@ -1,0 +1,6 @@
+TestCaseID,TestCaseName,Status,ExecutionTime,ErrorDetails
+1,Login Test,Pass,5s,
+2,Logout Test,Fail,3s,Element not found
+3,Signup Test,Pass,7s,
+4,Password Reset,Fail,6s,Timeout error
+5,Profile Update,Pass,8s,
