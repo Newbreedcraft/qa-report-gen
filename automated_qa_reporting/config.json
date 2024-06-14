@@ -1,8 +1,0 @@
-{
-    "input_files": [
-        "data\\test_results.csv",
-        "data\\test_results.json"
-    ],
-    "output_pdf": "reports\\qa_report.pdf",
-    "output_excel": "reports\\qa_report.xlsx"
-}
