@@ -1,0 +1,7 @@
+[
+    {"TestCaseID": 1, "TestCaseName": "Login Test", "Status": "Pass", "ExecutionTime": "5s", "ErrorDetails": ""},
+    {"TestCaseID": 2, "TestCaseName": "Logout Test", "Status": "Fail", "ExecutionTime": "3s", "ErrorDetails": "Element not found"},
+    {"TestCaseID": 3, "TestCaseName": "Signup Test", "Status": "Pass", "ExecutionTime": "7s", "ErrorDetails": ""},
+    {"TestCaseID": 4, "TestCaseName": "Password Reset", "Status": "Fail", "ExecutionTime": "6s", "ErrorDetails": "Timeout error"},
+    {"TestCaseID": 5, "TestCaseName": "Profile Update", "Status": "Pass", "ExecutionTime": "8s", "ErrorDetails": ""}
+]
